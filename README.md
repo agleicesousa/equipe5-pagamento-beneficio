@@ -21,7 +21,7 @@ python main.py
 ```bash
 python -m unittest -v test_pagamento
 ```
-io.
+
 - `main.py`: demonstração com cinco cenários.
 - `test_pagamento.py`: testes automatizados da regra de negócio.
 
@@ -40,5 +40,3 @@ Os testes utilizam apenas a biblioteca padrão do Python:
 ```bash
 python -m unittest -v test_pagamento
 ```
-
-A blockchain é apenas simulada, sem integração com rede real ou transferência financeira.
